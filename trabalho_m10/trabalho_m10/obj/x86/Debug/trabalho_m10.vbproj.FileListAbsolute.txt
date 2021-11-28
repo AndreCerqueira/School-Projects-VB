@@ -1,0 +1,10 @@
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\bin\Debug\trabalho_m10.exe
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\bin\Debug\trabalho_m10.pdb
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\bin\Debug\trabalho_m10.xml
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\obj\x86\Debug\trabalho_m10.Resources.resources
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\obj\x86\Debug\trabalho_m10.vbproj.GenerateResource.Cache
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\obj\x86\Debug\trabalho_m10.exe
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\obj\x86\Debug\trabalho_m10.xml
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\obj\x86\Debug\trabalho_m10.pdb
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\obj\x86\Debug\trabalho_m10.menu.resources
+C:\Users\andre\Desktop\trabalho_m10\trabalho_m10\obj\x86\Debug\trabalho_m10.quad.resources

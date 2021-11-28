@@ -1,0 +1,9 @@
+C:\Users\andre\Desktop\WebProject\2_atualizar\2_atualizar\bin\Debug\2_atualizar.exe
+C:\Users\andre\Desktop\WebProject\2_atualizar\2_atualizar\bin\Debug\2_atualizar.pdb
+C:\Users\andre\Desktop\WebProject\2_atualizar\2_atualizar\bin\Debug\2_atualizar.xml
+C:\Users\andre\Desktop\WebProject\2_atualizar\2_atualizar\obj\x86\Debug\_2_atualizar.Form1.resources
+C:\Users\andre\Desktop\WebProject\2_atualizar\2_atualizar\obj\x86\Debug\_2_atualizar.Resources.resources
+C:\Users\andre\Desktop\WebProject\2_atualizar\2_atualizar\obj\x86\Debug\2_atualizar.vbproj.GenerateResource.Cache
+C:\Users\andre\Desktop\WebProject\2_atualizar\2_atualizar\obj\x86\Debug\2_atualizar.exe
+C:\Users\andre\Desktop\WebProject\2_atualizar\2_atualizar\obj\x86\Debug\2_atualizar.xml
+C:\Users\andre\Desktop\WebProject\2_atualizar\2_atualizar\obj\x86\Debug\2_atualizar.pdb
